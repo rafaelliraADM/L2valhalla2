@@ -1,0 +1,66 @@
+01/05/2019 10:47: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => D5F009-CF9AE59AE5FF-ECC4C7BFA95E-43B439
+  [notificationType] => transaction
+)
+
+01/05/2019 13:58: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => DEBEC4-6713C713C741-E774842F872F-2CF27E
+  [notificationType] => transaction
+)
+
+01/05/2019 14:03: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 344C50-05831E831E82-FEE4B6FF9EBE-A56580
+  [notificationType] => transaction
+)
+
+01/05/2019 14:05: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => E1CDDF-34F88AF88AFF-C33428EFA346-40A8C1
+  [notificationType] => transaction
+)
+
+01/05/2019 14:08: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 619BB9-2610691069B9-D334456F9AB9-1DF9A4
+  [notificationType] => transaction
+)
+
+01/05/2019 14:17: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => DD39E4-F31351135180-A3340D5F93B6-EC6074
+  [notificationType] => transaction
+)
+
+01/05/2019 14:20: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 1BFB2D-C718441844AB-999487CFBECF-A6378F
+  [notificationType] => transaction
+)
+
+01/05/2019 14:23: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 9B350C-D81F361F36CF-FFF4D15FB3C4-2A3541
+  [notificationType] => transaction
+)
+
+11/05/2019 03:31: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => BC50A9-302F252F2517-B2240F3F8BDF-6D7379
+  [notificationType] => transaction
+)
+
+11/05/2019 06:06: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 3042F3-025F8B5F8B69-522457BFBE25-722737
+  [notificationType] => transaction
+)
+
+15/05/2019 03:09: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 323D2B-E952EC52EC76-C7748B6FA919-B848B7
+  [notificationType] => transaction
+)
+

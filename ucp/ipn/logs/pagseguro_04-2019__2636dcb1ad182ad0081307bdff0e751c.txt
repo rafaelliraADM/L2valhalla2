@@ -1,0 +1,82 @@
+03/04/2019 14:07: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+03/04/2019 14:07: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+03/04/2019 14:09: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+03/04/2019 14:09: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+03/04/2019 14:10: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+03/04/2019 14:10: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 5806FC-FB60D360D3C1-0774D52FAE00-B16F66
+  [notificationType] => transaction
+)
+
+03/04/2019 14:14: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 84F233-E42F242F24B0-E444AE6FAA75-94AD52
+  [notificationType] => transaction
+)
+
+03/04/2019 14:16: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => FA1885-DFE2F1E2F130-F444298FA5F2-419C00
+  [notificationType] => transaction
+)
+
+03/04/2019 14:26: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 3C70F9-EEE181E181B6-E224ABFFB3D1-32412C
+  [notificationType] => transaction
+)
+
+03/04/2019 19:52: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 1E5CBD-3F96209620D1-1774FC2F891B-8CF5AD
+  [notificationType] => transaction
+)
+
+26/04/2019 21:09: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+26/04/2019 21:09: RAW POSTs incompletos! - Dump: Array
+(
+)
+
+26/04/2019 21:42: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => 84FA53-AF046B046B9D-BFF4624FAF58-DE5B5A
+  [notificationType] => transaction
+)
+
+27/04/2019 02:02: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => 99AAED-57FAE0FAE0F5-FBB40CCF8D29-B3B6B2
+  [notificationType] => transaction
+)
+
+27/04/2019 05:40: Transação recebida e saldo entregue com sucesso! - Dump: Array
+(
+  [notificationCode] => C3F7B3-7ACD60CD60AE-BCC49EFFB838-8D7061
+  [notificationType] => transaction
+)
+
+27/04/2019 10:26: Transação recebida e processada com sucesso! #2 - Dump: Array
+(
+  [notificationCode] => AA73EF-C87E3C7E3C89-EEE4F37FA203-063C12
+  [notificationType] => transaction
+)
+
